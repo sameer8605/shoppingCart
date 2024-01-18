@@ -1,0 +1,13 @@
+.product{
+    display: flex;
+    justify-content: space-evenly;
+    width: "2   00px";
+}
+
+
+.product_child{
+    border: 1px solid #ddd;
+    background-color: rgb(173, 41, 41);
+    padding: 20px;
+    width: 200px;
+}

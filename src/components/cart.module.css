@@ -1,0 +1,11 @@
+.cart{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.cart{
+    border: 1px solid #ddd;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+}
